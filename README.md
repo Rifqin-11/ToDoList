@@ -57,6 +57,19 @@ This is a simple and interactive front-end web application for managing your tas
 ├── package.json      # Project metadata and dependencies
 ```
 
+### Screenshots
+
+#### Dashboard
+![Dahsboard](./Preview/Preview1.png)
+
+#### Add new Task
+![Modal Add new task](./Preview/Preview2.png)
+
+#### Edit or Delete Task
+![Edit Or Delete Task](./Preview/Preview3.png)
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvement or want to fix an issue, please fork the repository and submit a pull request.
