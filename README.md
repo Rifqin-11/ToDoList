@@ -1,7 +1,6 @@
 # To-Do List Web Application
 
-![ReactJS](https://img.shields.io/badge/ReactJs-red?style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue?style=flat-square)
+![React](https://img.shields.io/badge/React.js-%5E18.0.0-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%5E3.0-green?logo=tailwind-css) 
 
 This is a simple and interactive front-end web application for managing your tasks efficiently. Users can add, edit, and delete tasks seamlessly. The project is built with React.js and styled using Tailwind CSS for a clean and modern user experience.
 
